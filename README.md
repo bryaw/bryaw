@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bryan</h1>
 <h3 align="center">Frontend Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://fb.com/bryantomenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bryantomenio" height="30" width="40" /></a>
 <a href="https://instagram.com/br4ay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="br4ay" height="30" width="40" /></a>
