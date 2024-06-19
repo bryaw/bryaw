@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bryan</h1>
 <h3 align="center">Frontend Developer</h3>
-<h6  align="center">Specializes in creating web applications and translating visual concepts into interactive user interfaces.</h6>
+<h6  align="center">Specializes in creating web applications and translating visual concepts into interactive user interfaces</h6>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
