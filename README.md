@@ -3,7 +3,7 @@
 <h4 align="center">@ Intelliseven Technology Solutions</h4>
 <h6  align="center">Specializes in creating web applications and translating visual concepts into interactive user interfaces</h6>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://discord.gg/bryantomenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bryantomenio" height="30" width="40" /></a>
 </p>
