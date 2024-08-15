@@ -4,7 +4,7 @@
   
 
 # <div align="center">Hi 👋, I'm Bryan</div>  
-## <div align="center"> Frontend Developer @ Intelliseven Technology Solutions</div>  
+## <div align="center"> Frontend Developer @ Intelliseven Technology Solutions Inc</div>  
   
 
 - Specializes in creating web applications and translating visual concepts into interactive user interfaces  
