@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/127568366?v=4" align="center" style="width: 30%" />
+<img src="https://static.vecteezy.com/system/resources/previews/011/354/494/original/young-man-are-doing-coding-3d-cartoon-character-illustration-png.png" align="center" style="width: 30%" />
 </div>  
   
 
