@@ -5,12 +5,13 @@
 
 # <div align="center">Hi 👋, I'm Bryan</div>  
 ## <div align="center"> Frontend Developer @ Intelliseven Technology Solutions Inc</div>  
+### <div align="center"> My Portfolio <a href="https://portfolio-89mb7xftq-bryan-tomenios-projects.vercel.app/"> Bry@w </a> </div>  
+  
+<br/><br/>
+- Specializes in creating web applications and translating visual concepts into interactive user interfaces
   
 
-- Specializes in creating web applications and translating visual concepts into interactive user interfaces  
-  
-
-<br/>  
+<br/>
 
 
 ## My Skill Set:  
