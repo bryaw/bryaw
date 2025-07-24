@@ -30,6 +30,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Static/nextjs-2.svg" alt="Nextjs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </p>
 
 <h3 align="left">Stars</h3>
@@ -42,4 +43,4 @@
 <a href="https://github.com/bryaw">
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bryaw&theme=2077" height="180em" /> -->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bryaw&theme=algolia" height="180em" />
-</div>
+</div>y
