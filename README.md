@@ -43,4 +43,4 @@
 <a href="https://github.com/bryaw">
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bryaw&theme=2077" height="180em" /> -->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bryaw&theme=algolia" height="180em" />
-</div>y
+</div>
