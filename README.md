@@ -3,7 +3,7 @@
 </div>  
 
 <h1 align="center">Hi, 👋 I'm Bryan</h1>
-<h3 align="center">Frontend Developer @ Intelliseven Technology Solutions Inc</h3>
+<h3 align="center">Frontend Developer</h3>
 <!--  <div align="center"> My Portfolio <a href="https://portfolio-89mb7xftq-bryan-tomenios-projects.vercel.app/"> Bry@w </a> </div>   -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryaw&label=Profile%20views&color=0e75b6&style=flat" alt="bryaw" /> </p>
 
@@ -32,15 +32,3 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </p>
-
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryaw&langs_count=8&theme=merko" alt=bryaw />
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bryaw&theme=merko" alt="bryaw" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/bryaw">
-<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bryaw&theme=2077" height="180em" /> -->
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bryaw&theme=algolia" height="180em" />
-</div>
