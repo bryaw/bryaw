@@ -2,7 +2,7 @@
 <img src="https://static.vecteezy.com/system/resources/previews/011/354/494/original/young-man-are-doing-coding-3d-cartoon-character-illustration-png.png" align="center" style="width: 30%" />
 </div>  
 
-<h1 align="center">Hi, 👋 I'm Bryan</h1>
+<h1 align="center">Hello, 👋 I'm Bryan</h1>
 <h3 align="center">Frontend Developer</h3>
 <!--  <div align="center"> My Portfolio <a href="https://portfolio-89mb7xftq-bryan-tomenios-projects.vercel.app/"> Bry@w </a> </div>   -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryaw&label=Profile%20views&color=0e75b6&style=flat" alt="bryaw" /> </p>
